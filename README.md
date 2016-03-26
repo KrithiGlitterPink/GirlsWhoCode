@@ -1,4 +1,4 @@
 # GirlsWhoCode
 
-This is a place for all my GWC stuff!!!
-#happy
+This is my girls who code web page!!!
+
